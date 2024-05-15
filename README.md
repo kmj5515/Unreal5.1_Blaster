@@ -4,6 +4,15 @@
 * [언리얼 엔진 5 C++ 멀티플레이어 슈팅 게임 (출처: Udemy)](https://www.udemy.com/course/unreal-engine-5-cpp-multiplayer-shooter/?couponCode=LEADERSALE24A)
 
 
-## 1. Projectile testing in multi-environment
+## 1. MultiPlay Test
 
 ![](Planning/MultiPlayTest_1.png)
+
+
+## 2. Cross hair and Shooting
+
+![](Planning/Animation.gif)
+
+## 3. Cross hair Spread
+
+![](Planning/Animation1.gif)
