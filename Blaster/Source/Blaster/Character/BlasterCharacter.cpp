@@ -65,7 +65,7 @@ void ABlasterCharacter::OnRep_ReplicatedMovement()
 	TimeSinceLastMovementReplication = 0.f;
 }
 
-void ABlasterCharacter::Elim()Add commentMore actions
+void ABlasterCharacter::Elim()
 {
 
 }
